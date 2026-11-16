@@ -1,6 +1,6 @@
 # Triven — Relatório Comercial
 
-Página estática do relatório de acompanhamento comercial da Triven (pipeline de leads, situação em 15/11/2026).
+Página estática do relatório de acompanhamento comercial da Triven (pipeline de leads, situação em 16/11/2026), sem identificação de clientes.
 
 - `index.html` — página única, CSS embutido, sem scripts e sem recursos externos.
 - Publicação via GitHub Pages.
